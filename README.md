@@ -1,4 +1,4 @@
-# **BOTTOM-UP APPROCAH** Passport Application Database Design
+# **BOTTOM-UP APPROACH** Passport Application Database Design
 
 This project involves the creation of a relational database structure for managing passport applications, using a bottom-up approach. The database is designed to capture and manage comprehensive details related to applicants, their family, emergency contacts, criminal proceedings, address, and other critical information required in the passport application process. The design ensures that all relevant data points from the application form are systematically organized and can be efficiently retrieved and managed.
 
